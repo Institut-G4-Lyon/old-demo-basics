@@ -1,3 +1,7 @@
 <?php
 
-echo "Bonjour tout le monde";
+function main() {
+    return "Bonjour tout le monde";
+}
+
+echo main();
