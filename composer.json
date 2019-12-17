@@ -1,4 +1,6 @@
 {
+    "name": "institutg4/demobasics",
+    "description": "some basic description",
     "scripts": {
         "test": "vendor/bin/phpunit IndexTest.php"
     },
